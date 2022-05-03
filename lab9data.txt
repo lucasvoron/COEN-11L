@@ -1,0 +1,6 @@
+Name     Group Size
+ ---------------------------------
+lucas     2
+dora     4
+nick     5
+alex     7

@@ -1,0 +1,5 @@
+Name     Group Size
+ ---------------------------------
+lucas     3
+nick     5
+dylan     7
